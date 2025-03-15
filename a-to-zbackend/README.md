@@ -27,11 +27,19 @@ spring.mail.username=your-email@gmail.com
 spring.mail.password=your-password
 ``
 
+
+
+
 **Also, update the MailConfig.java file at:**
 
 ``sh
 src/main/java/com/example/demo/MailConfig/MailConfig.java
 ``
+
+
+## 📩 Contact
+For any issues, feel free to raise an issue or contact me at:  
+📧 **mcmanu368@gmail.com**
 
 
 
