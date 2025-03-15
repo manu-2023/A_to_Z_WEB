@@ -1,5 +1,5 @@
 ## 🚀 A-TO-Z Doorstep Optimization
- **A-TO-A is a service-based platform where customers can book skilled freelancers for various home services like painting, plumbing, carpentry, and more.*
+ **A-TO-Z is a service-based platform where customers can book skilled freelancers for various home services like painting, plumbing, carpentry, and more.*
  
 ### 📌 Project Overview
 This project includes three main roles:
@@ -10,7 +10,7 @@ This project includes three main roles:
 ### Tech Stack
 - 🖥 Frontend: React.js
 - ⚙ Backend: Java Spring Boot
--💾 Database: MySQL
+- 💾 Database: MySQL
 
 ### Prerequisites
 - ☕ Java JDK 17+
@@ -38,3 +38,11 @@ This project includes three main roles:
   - 📜 View complaints and service requests
   - ✅ Approve work requests with time and cost estimates
   - ✏ Update profile
+
+### ⚙ Setup & Installation
+git clone 
+``sh
+https://github.com/manu-2023/A_to_Z_WEB
+cd A_to_Z_WEB
+``
+
