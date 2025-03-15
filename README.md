@@ -1,5 +1,5 @@
 ## 🚀 A-TO-Z Doorstep Optimization
- **A-TO-Z is a service-based platform where customers can book skilled freelancers for various home services like painting, plumbing, carpentry, and more.*
+*A-TO-Z is a service-based platform where customers can book skilled freelancers for various home services like painting, plumbing, carpentry, and more.*
  
 ### 📌 Project Overview
 This project includes three main roles:
