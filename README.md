@@ -40,11 +40,13 @@ This project includes three main roles:
   - ✏ Update profile
 
 ### ⚙ Setup & Installation
-git clone 
+**git clone** 
 
 ``` sh
 https://github.com/manu-2023/A_to_Z_WEB
 cd A_to_Z_WEB
 ```
+
+### For detailed setup instructions, open the README.md file inside each folder (frontend/ and backend/).
 
 
