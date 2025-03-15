@@ -20,5 +20,18 @@ Update the application.properties file located at:
 src/main/resources/application.properties
 ``
 
+**Set your email and password for mail communication:**
+
+``sh 
+spring.mail.username=your-email@gmail.com
+spring.mail.password=your-password
+``
+
+**Also, update the MailConfig.java file at:**
+
+``sh
+src/main/java/com/example/demo/MailConfig/MailConfig.java
+``
+
 
 
