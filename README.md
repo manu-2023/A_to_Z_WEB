@@ -40,10 +40,11 @@ This project includes three main roles:
   - ✏ Update profile
 
 ### ⚙ Setup & Installation
-git clone 
+**git clone 
 
-``sh
+`` sh
 https://github.com/manu-2023/A_to_Z_WEB
 cd A_to_Z_WEB
 ``
+**
 
