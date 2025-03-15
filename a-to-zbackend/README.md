@@ -11,10 +11,10 @@ This is the backend developed in Java Spring Boot.
 - 📂 Clone Repository
 - 🏗️ Open Eclipse IDE
 - 📁 Import the project:
-   **File → Import → Existing Maven Projects → Select the cloned project folder → Finish
+   **File → Import → Existing Maven Projects → Select the cloned project folder → Finish**
 
-## Configuration
-** Email Configuration
+## ⚙️  Configuration
+**📧 Email Configuration**
 Update the application.properties file located at:
 ``sh 
 src/main/resources/application.properties
