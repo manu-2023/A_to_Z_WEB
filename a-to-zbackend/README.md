@@ -16,16 +16,16 @@ This is the backend developed in Java Spring Boot.
 ## ⚙️  Configuration
 **📧 Email Configuration**
 Update the application.properties file located at:
-``sh 
+```sh 
 src/main/resources/application.properties
-``
+```
 
 **Set your email and password for mail communication:**
 
-``sh 
+```sh 
 spring.mail.username=your-email@gmail.com
 spring.mail.password=your-password
-``
+```
 
 
 
