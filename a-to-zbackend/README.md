@@ -32,9 +32,9 @@ spring.mail.password=your-password
 
 **Also, update the MailConfig.java file at:**
 
-``sh
+```sh
 src/main/java/com/example/demo/MailConfig/MailConfig.java
-``
+```
 
 
 ## 📩 Contact
