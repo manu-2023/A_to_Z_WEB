@@ -29,12 +29,26 @@ spring.mail.password=your-password
 
 
 
-
 **Also, update the MailConfig.java file at:**
 
 ```sh
 src/main/java/com/example/demo/MailConfig/MailConfig.java
 ```
+
+
+## ⚡ Additional Setup
+
+**After running the Java Spring Boot backend, open MySQL.**
+
+ - Locate the ATOZ database.
+
+ - Inside ATOZ, navigate to the tables section.
+
+ - Open the admin_table.
+
+ - Add an email and password without fail to ensure proper authentication.
+
+
 
 
 ## 📩 Contact
