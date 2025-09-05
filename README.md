@@ -13,7 +13,7 @@ This project includes three main roles:
 - 💾 Database: MySQL
 
 ### Prerequisites
-- ☕ Java JDK 17+
+- ☕ Java JDK 11+
 - 🛠 Eclipse IDE (Recommended for backend)
 - 💻 Node.js (For frontend development)
 - 🐬 MySQL (8+)
