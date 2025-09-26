@@ -26,7 +26,7 @@
 
 To install all dependencies manually, run:
 ```sh
-npm install react react-dom react-router-dom bootstrap react-bootstrap axios react-toastify react-icons react-star-rating-component @testing-library/react @testing-library/jest-dom @testing-library/user-event web-vitals
+npm install --force
 ```
 
 
